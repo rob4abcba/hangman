@@ -1,4 +1,4 @@
-# RL If I have time, I might use this as a starting point to create a "Guess the pinyin" for Chinese characters that are displayed.
+# RL If I have time, I might use this as a starting point to create a "Guess the pinyin" for the displayed Chinese characters hangman style game.  Notice I said "hangman style" not "Gangman style" LOL
 
 Display a Chinese character.
 The learner/player enters one-by-one the letters that spell out the pinyin for that Chinese character/word.
