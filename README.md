@@ -1,4 +1,16 @@
-# The Hangman Gamne
+# RL If I have time, I might use this as a starting point to create a "Guess the pinyin" for Chinese characters that are displayed.
+
+Display a Chinese character.
+The learner/player enters one-by-one the letters that spell out the pinyin for that Chinese character/word.
+For each Chinese character/syllable, The learner/player enters 0, 1, 2, 3, or 4 to denote untoned plus the 4 tones.
+0 = untoned
+1 = high tone
+2 = rising tone
+3 = falling then rising tone
+4 = sharp falling tone
+
+
+# The Hangman Game
 
 The hangman game is a word guessing game.
 
